@@ -1,0 +1,14 @@
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers\ProductSelling\ProductSelling\ProductSelling\bin\Debug\netcoreapp3.1\ProductSelling.exe
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers\ProductSelling\ProductSelling\ProductSelling\bin\Debug\netcoreapp3.1\ProductSelling.deps.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers\ProductSelling\ProductSelling\ProductSelling\bin\Debug\netcoreapp3.1\ProductSelling.runtimeconfig.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers\ProductSelling\ProductSelling\ProductSelling\bin\Debug\netcoreapp3.1\ProductSelling.runtimeconfig.dev.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers\ProductSelling\ProductSelling\ProductSelling\bin\Debug\netcoreapp3.1\ProductSelling.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers\ProductSelling\ProductSelling\ProductSelling\bin\Debug\netcoreapp3.1\ProductSelling.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers\ProductSelling\ProductSelling\ProductSelling\obj\Debug\netcoreapp3.1\ProductSelling.csproj.AssemblyReference.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers\ProductSelling\ProductSelling\ProductSelling\obj\Debug\netcoreapp3.1\ProductSelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers\ProductSelling\ProductSelling\ProductSelling\obj\Debug\netcoreapp3.1\ProductSelling.AssemblyInfoInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers\ProductSelling\ProductSelling\ProductSelling\obj\Debug\netcoreapp3.1\ProductSelling.AssemblyInfo.cs
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers\ProductSelling\ProductSelling\ProductSelling\obj\Debug\netcoreapp3.1\ProductSelling.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers\ProductSelling\ProductSelling\ProductSelling\obj\Debug\netcoreapp3.1\ProductSelling.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers\ProductSelling\ProductSelling\ProductSelling\obj\Debug\netcoreapp3.1\ProductSelling.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsOOPEncapsulationAccessModifiers\ProductSelling\ProductSelling\ProductSelling\obj\Debug\netcoreapp3.1\ProductSelling.genruntimeconfig.cache
