@@ -58,3 +58,20 @@ FatRate -Bu xususiyyet mehsulun yagliligini  ifade edir.
 
 Program.cs methodlari cagirib yoxlamali.
 
+
+Task-3:
+
+Product class
+-Name
+-Price
+-Category
+
+Price dəyəri 0-dan aşağı ola bilməz.
+
+Store class
+-Products – product array
+-ProductLimit – marketdəki product-ların limiti
+-Name – marketin adı
+-AddProduct() – product type-da dəyər qəbul edib
+		  Produts array-e set edir
+-GetProductsByCategory() - Metoda daxil edilən kateqoriya adına uyğun axtarış edir nəticəni qaytarır.
