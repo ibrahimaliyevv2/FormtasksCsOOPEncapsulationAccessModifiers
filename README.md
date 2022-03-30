@@ -75,3 +75,4 @@ Store class
 -AddProduct() – product type-da dəyər qəbul edib
 		  Produts array-e set edir
 -GetProductsByCategory() - Metoda daxil edilən kateqoriya adına uyğun axtarış edir nəticəni qaytarır.
+(Son task-ın solution-u TaskSpecial1StoreProject reposudadır, burada xəta verdi. )
